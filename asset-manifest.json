@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drawertest/static/css/main.bf92f223.chunk.css",
+    "main.js": "/drawertest/static/js/main.05a3a06d.chunk.js",
+    "main.js.map": "/drawertest/static/js/main.05a3a06d.chunk.js.map",
+    "runtime-main.js": "/drawertest/static/js/runtime-main.9401f422.js",
+    "runtime-main.js.map": "/drawertest/static/js/runtime-main.9401f422.js.map",
+    "static/js/2.855f72ea.chunk.js": "/drawertest/static/js/2.855f72ea.chunk.js",
+    "static/js/2.855f72ea.chunk.js.map": "/drawertest/static/js/2.855f72ea.chunk.js.map",
+    "index.html": "/drawertest/index.html",
+    "precache-manifest.89d6869451dd5801d5cc5d5d77b6faff.js": "/drawertest/precache-manifest.89d6869451dd5801d5cc5d5d77b6faff.js",
+    "service-worker.js": "/drawertest/service-worker.js",
+    "static/css/main.bf92f223.chunk.css.map": "/drawertest/static/css/main.bf92f223.chunk.css.map",
+    "static/js/2.855f72ea.chunk.js.LICENSE.txt": "/drawertest/static/js/2.855f72ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9401f422.js",
+    "static/js/2.855f72ea.chunk.js",
+    "static/css/main.bf92f223.chunk.css",
+    "static/js/main.05a3a06d.chunk.js"
+  ]
+}
